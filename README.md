@@ -1,14 +1,19 @@
 - 👋 Hi, I’m @joshcord99
 - 👀 I’m interested in ...
       - Creating interactive/useful appications.
+  
 - 🌱 I’m currently learning ...
       - MongoDB and Python.
+  
 - 💞️ I’m looking to collaborate on ...
-      - Anything, Let me know ! 
+      - Anything, Let me know !
+  
 - 📫 How to reach me ...
-    - email: joshcord99@gmail.com
+    - Email: joshcord99@gmail.com
+
 - 😄 Pronouns: ...
-      - his/he
+      - His/He
+  
 - ⚡ Fun fact: ...
       - I am always open to new and interesting adventures/challenges. Never know until you try, right ? 
 
