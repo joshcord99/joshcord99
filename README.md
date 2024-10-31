@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @joshcord99
+![](https://github.com/joshcord99/Joshua-Cordial-The-Programmer/blob/main/public/AvatarMaker-2.png)
 ## 👀 I’m interested in ...
 Creating interactive/useful appications.
   
