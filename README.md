@@ -11,9 +11,6 @@ Anything, Let me know !
 ## 📫 How to reach me ...
 Email: joshcord99@gmail.com
 
-## 😄 Pronouns: ...
-His/He
-  
 ## ⚡ Fun fact: ...
 I am always open to new and interesting adventures/challenges. Never know until you try, right ? 
 
