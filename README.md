@@ -1,10 +1,12 @@
 # 👋 Hi, I’m @joshcord99
 ![](https://github.com/joshcord99/Joshua-Cordial-The-Programmer/blob/main/public/AvatarMaker-2.png)
+
 ## 👀 I’m interested in ...
-Creating interactive/useful appications.
+Innovating to advance the greater good of humanity
   
 ## 🌱 I’m currently learning ...
-MongoDB / Python / Unity  
+Training and developing artificial intelligence models
+
 ## 💞️ I’m looking to collaborate on ...
 Anything, Let me know !
   
